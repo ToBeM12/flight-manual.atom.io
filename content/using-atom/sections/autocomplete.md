@@ -14,3 +14,5 @@ By default, the autocomplete system will look through the current open file for 
 If you want more options, in the Settings panel for the autocomplete-plus package you can toggle a setting to make autocomplete-plus look for text in all your open buffers rather than just the current file.
 
 The Autocomplete functionality is implemented in the [autocomplete-plus](https://github.com/atom/autocomplete-plus) package.
+//////////edit/////////
+u can sort names of the languages that autocomplete support .. it`s important
